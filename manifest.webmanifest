@@ -4,8 +4,9 @@
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
+  "orientation": "any",
   "scope": "/",
-  "start_url": "/sms2profit/index.html",
+  "start_url": "/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
