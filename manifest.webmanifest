@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "any",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "/sms2profit/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
