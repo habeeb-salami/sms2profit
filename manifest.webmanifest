@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "any",
   "scope": "/",
-  "start_url": "https://habeeb-salami.github.io/sms2profit/",
+  "start_url": "https://habeeb-salami.github.io/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
